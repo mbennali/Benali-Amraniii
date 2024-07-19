@@ -1,0 +1,46 @@
+Index.html
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benali & Amrani</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #d9534f;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Benali & Amrani</h1>
+        <p>Te quiero mucho</p>
+        <p>Eres lo mejor que me ha pasado</p>
+        <p>Estoy muy feliz de tenerte en mi vida</p>
+        <img src="https://img-cdn.heictojpg.com/jpg/c26a61eb1eb5e53b/IMG_4522.jpg" alt="Imagen 1">
+        <img src="https://img-cdn.heictojpg.com/jpg/c26a61eb1eb5e53b/IMG_4507.jpg" alt="Imagen 2">
+    </div>
+</body>
+</html>
